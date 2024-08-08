@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 ### Contact
 - :email: reach me at: <jiangmen28@gmail.com>
 - :house: reach me at: [https://www.liurongqing.com](https://www.hepingpeace15.com/)
-- :CSDN: reach me at: [https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421](https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421)
-- :Medium: reach me at: [https://medium.com/@jiangmen28](https://medium.com/@jiangmen28)
+- CSDN reach me at: [https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421](https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421)
+- Medium reach me at: [https://medium.com/@jiangmen28](https://medium.com/@jiangmen28)
  
 
 

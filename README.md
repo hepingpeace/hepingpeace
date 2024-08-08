@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-contribution-grid-snake.svg" />
   </picture>
 
 </div>

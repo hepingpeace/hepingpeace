@@ -6,6 +6,17 @@
     </a>
   </div>
 <img align="right" alt="GIF" src="code.gif" height="500px" />
+
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=DapengFeng&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
+    <!-- discussions -->
+    <a href="https://github.com/DapengFeng/DapengFeng/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/DapengFeng/DapengFeng" /></a>&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@1e073504-9bd8-4f29-af5a-88b8022fc828"><img src="https://wakatime.com/badge/user/1e073504-9bd8-4f29-af5a-88b8022fc828.svg" alt="Total time coded since JUL 3 2023" /></a>
+
+  </div>
 </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -34,8 +45,8 @@ Here are some ideas to get you started:
 ## Contact 🤙
 - :email: reach me at: <jiangmen28@gmail.com>
 - :house: reach me at: [https://www.hepingpeace15.com/](https://www.hepingpeace15.com/)
-- :c: reach me at: [https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421](https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421)
-  ![](medium.png): [https://medium.com/@jiangmen28](https://medium.com/@jiangmen28)
+- CSDN reach me at: [https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421](https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421)
+- Medium reach me at: [https://medium.com/@jiangmen28](https://medium.com/@jiangmen28)
  
 <tr><td>
 

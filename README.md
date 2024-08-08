@@ -41,11 +41,12 @@ Here are some ideas to get you started:
 - :house: reach me at: [https://www.hepingpeace15.com/](https://www.hepingpeace15.com/)
 - CSDN reach me at: [https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421](https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421)
 - Medium reach me at: [https://medium.com/@jiangmen28](https://medium.com/@jiangmen28)
-  <img src="https://komarev.com/ghpvc/?username=DapengFeng&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
+
 <tr><td>
 
 
-## On Github
+## On Github   
+<img src="https://komarev.com/ghpvc/?username=hepingpeace&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
 ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=hepingpeace&show_icons=true&theme=radical&count_private=true)
 
 <tr><td>

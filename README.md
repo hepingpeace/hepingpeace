@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=hepingpeace&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br><br><br>
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

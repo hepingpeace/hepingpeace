@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Peace 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch)](https://skillicons.dev)
 <!--
 **hepingpeace/hepingpeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

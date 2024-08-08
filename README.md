@@ -1,4 +1,11 @@
 <img align="right" src="https://count.getloli.com/get/@:hepingpeace?theme=rule34">
+<div align="center">
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://dapengfeng.github.io">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome!&center=true&size=27" />
+    </a>
+  </div>
 <img align="right" alt="GIF" src="code.gif" height="500px" />
 </div>
 

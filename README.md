@@ -1,5 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:hepingpeace?theme=rule34">
-<div align="left">
+<div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://dapengfeng.github.io">

@@ -1,11 +1,5 @@
 <img align="right" src="https://count.getloli.com/get/@:hepingpeace?theme=rule34">
 
-## Hi there 👋
-I'm Peace 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on KMU ii LAB
-- 🌱 I’m currently learning NLP, BEV , automobile driving
 </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -16,6 +10,13 @@ Here are some ideas to get you started:
   </picture>
 
 </div>
+<tr><td>
+## Hi there 👋
+I'm Peace 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on KMU ii LAB
+- 🌱 I’m currently learning NLP, BEV, automobile driving
 
 [![My Skills](https://skillicons.dev/icons?i=opencv,python,pytorch)](https://skillicons.dev)
 

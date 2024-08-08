@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 ### On Github
 ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=hepingpeace&show_icons=true&theme=radical&count_private=true)
 
-### code
+### LLM
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=hepingpeace&repo=Llama2.0_inf)](https://github.com/hepingpeace/Llama2.0_inf)
 
 
+### 3D vis 
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=hepingpeace&repo=kitti_my_vis)](https://github.com/hepingpeace/kitti_my_vis)
 

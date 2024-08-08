@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch)](https://skillicons.dev)
 
-
+### Github 活跃度
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Contact
 - :email: reach me at: <jiangmen28@gmail.com>
@@ -28,5 +29,4 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=hepingpeace&repo=Llama2.0_inf)](https://github.com/hepingpeace/Llama2.0_inf)
 
 
-### Github 活跃度
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

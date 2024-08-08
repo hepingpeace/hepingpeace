@@ -1,5 +1,5 @@
 <img align="right" src="https://count.getloli.com/get/@:hepingpeace?theme=rule34">
- <img align="right" alt="GIF" src="code.gif" height="225px" />
+<img align="right" alt="GIF" src="code.gif" height="500px" />
 </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->

@@ -10,15 +10,6 @@
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=hepingpeace&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
-</div>
-
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
 
 </div>
 
@@ -50,7 +41,7 @@ Here are some ideas to get you started:
 - :house: reach me at: [https://www.hepingpeace15.com/](https://www.hepingpeace15.com/)
 - CSDN reach me at: [https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421](https://blog.csdn.net/weixin_55982578?spm=1010.2135.3001.5421)
 - Medium reach me at: [https://medium.com/@jiangmen28](https://medium.com/@jiangmen28)
- 
+  <img src="https://komarev.com/ghpvc/?username=DapengFeng&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
 <tr><td>
 
 

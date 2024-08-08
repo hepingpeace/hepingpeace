@@ -8,11 +8,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NLP, BEV , automobile driving
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,python,pytorch)](https://skillicons.dev)
 
-### Github
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Contact
 - :email: reach me at: <jiangmen28@gmail.com>

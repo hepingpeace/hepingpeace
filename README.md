@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch)](https://skillicons.dev)
 
-### Github 活跃度
+### Github
+
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Contact

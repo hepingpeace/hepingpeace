@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <tr><td>
 
 
-## On Github   
-<img src="https://komarev.com/ghpvc/?username=hepingpeace&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
+## On Github   <img src="https://komarev.com/ghpvc/?username=hepingpeace&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
+
 ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=hepingpeace&show_icons=true&theme=radical&count_private=true)
 
 <tr><td>

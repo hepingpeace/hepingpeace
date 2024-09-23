@@ -51,6 +51,9 @@ Here are some ideas to get you started:
 
 <tr><td>
 
+### paper list
+[![](https://github-readme-stats.vercel.app/api/pin/?username=hepingpeace&repo=awsome_ai_paper_list)](https://github.com/hepingpeace/awsome_ai_paper_list)
+
 
 ### LLM
 
